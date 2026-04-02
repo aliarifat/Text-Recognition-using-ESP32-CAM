@@ -136,6 +136,8 @@ python main.py
 Place the camera in front of text
 Watch real-time detection in terminal
 View live feed in OpenCV window
+
+
 ## 📸 Demo
 
 ![Demo 1](Screenshot 2025-03-19 193807.png)
